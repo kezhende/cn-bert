@@ -1,0 +1,14 @@
+*.pyc
+*.DS_Store
+*.swp
+*.idea
+*.project
+*.pydevproject
+*.out
+*.crc
+*.data
+*.log
+log.*
+*.un~
+*.un
+*.gz
